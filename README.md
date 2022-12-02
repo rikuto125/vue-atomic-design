@@ -1,4 +1,4 @@
-## intall
+## install
 ```
 yarn install
 ```
